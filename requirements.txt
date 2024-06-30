@@ -1,0 +1,10 @@
+evdev==1.6.1
+iniconfig==2.0.0
+numpy==1.26.3
+packaging==23.2
+pillow==10.2.0
+pluggy==1.4.0
+pupil-labs-uvc==1.0.0rc1
+pyserial==3.5
+pytest==7.4.4
+scipy==1.12.0
